@@ -6,7 +6,7 @@ namespace МОАД_Лаб_3_16
 {
     internal class Rings
     {
-        private List<List<int>> RingsTable = new List<List<int>>();
+        private List<List<int>> RingsTable = new List<List<int>>(); //{оператор, начало звонка, конец звонка, тема, оценка}
         internal void ReadFromFile()
         {
             StreamReader streamReader = new StreamReader("Task2 1.csv");
