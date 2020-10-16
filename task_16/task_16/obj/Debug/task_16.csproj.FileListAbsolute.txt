@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\MOAD\Лаб3\task_16\task_16\bin\Debug\task_16.exe.config
+C:\Users\User\Desktop\MOAD\Лаб3\task_16\task_16\bin\Debug\task_16.exe
+C:\Users\User\Desktop\MOAD\Лаб3\task_16\task_16\bin\Debug\task_16.pdb
+C:\Users\User\Desktop\MOAD\Лаб3\task_16\task_16\obj\Debug\task_16.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MOAD\Лаб3\task_16\task_16\obj\Debug\task_16.Form1.resources
+C:\Users\User\Desktop\MOAD\Лаб3\task_16\task_16\obj\Debug\task_16.Properties.Resources.resources
+C:\Users\User\Desktop\MOAD\Лаб3\task_16\task_16\obj\Debug\task_16.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MOAD\Лаб3\task_16\task_16\obj\Debug\task_16.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MOAD\Лаб3\task_16\task_16\obj\Debug\task_16.exe
+C:\Users\User\Desktop\MOAD\Лаб3\task_16\task_16\obj\Debug\task_16.pdb
