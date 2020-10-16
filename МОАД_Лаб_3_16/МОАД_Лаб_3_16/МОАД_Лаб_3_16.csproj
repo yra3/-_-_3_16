@@ -44,6 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnswerWriter.cs" />
+    <Compile Include="AnswerWriterToConsole.cs" />
+    <Compile Include="AnswerWriterToFile.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rings.cs" />
